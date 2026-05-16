@@ -34,6 +34,14 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip-pkrl&bg_color=0d1117&color=00ffff&line=7fffd4&point=00ffff&area=true&hide_border=true" />
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ## 🎨 Frontend
